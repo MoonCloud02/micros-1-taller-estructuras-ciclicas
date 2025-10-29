@@ -41,6 +41,8 @@ micros-1-taller-estructuras-ciclicas/
 
 **Archivo:** `ejercicio1_for.ino`
 
+🔗 **Simular en Wokwi:** [https://wokwi.com/projects/446172814625303553](https://wokwi.com/projects/446172814625303553)
+
 **Características:**
 - ✅ Conteo progresivo del 1 al 10
 - ✅ Conteo regresivo del 10 al 1 (Pregunta 1)
@@ -79,6 +81,8 @@ flowchart TD
 **Descripción:** Calcula la suma de los primeros N números naturales usando ciclo `while`. N se ingresa por el puerto serie.
 
 **Archivo:** `ejercicio2_while.ino`
+
+🔗 **Simular en Wokwi:** [https://wokwi.com/projects/446173194786614273](https://wokwi.com/projects/446173194786614273)
 
 **Características:**
 - ✅ Entrada de datos por puerto serie
@@ -126,6 +130,8 @@ flowchart TD
 
 **Archivo:** `ejercicio3_dowhile.ino`
 
+🔗 **Simular en Wokwi:** [https://wokwi.com/projects/446174061888817153](https://wokwi.com/projects/446174061888817153)
+
 **Características:**
 - ✅ Conteo regresivo 5 al 1
 - ✅ Conteo de 2 en 2 desde 10 (Pregunta 1)
@@ -169,6 +175,8 @@ flowchart TD
 **Descripción:** Imprime la tabla de multiplicar del número ingresado por el puerto serie usando ciclo `for`.
 
 **Archivo:** `ejercicio4_tabla_multiplicar.ino`
+
+🔗 **Simular en Wokwi:** [https://wokwi.com/projects/446174744452116481](https://wokwi.com/projects/446174744452116481)
 
 **Características:**
 - ✅ Entrada de datos por puerto serie
