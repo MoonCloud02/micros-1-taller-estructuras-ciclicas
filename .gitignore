@@ -1,0 +1,44 @@
+# Ignorar archivos temporales y de compilación de Arduino
+*.hex
+*.elf
+*.bin
+*.map
+
+# Ignorar carpetas de compilación
+build/
+.build/
+
+# Ignorar archivos de configuración del IDE
+.vscode/
+.idea/
+*.sublime-*
+
+# Ignorar archivos del sistema operativo
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Ignorar archivos de logs
+*.log
+
+# Ignorar archivos de respaldo
+*~
+*.bak
+*.swp
+*.swo
+
+# Node modules (si se usa alguna herramienta Node)
+node_modules/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+
+# Directorios de entorno virtual
+venv/
+env/
+ENV/
